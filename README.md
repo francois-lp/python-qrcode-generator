@@ -10,7 +10,7 @@ __Requirements__
 
 __Project__
 ```
-	$ git clone https://github.com/francois-lp/python-qrcode-generator
+    $ git clone https://github.com/francois-lp/python-qrcode-generator
 ```
 
 __Dependencies__
